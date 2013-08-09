@@ -14,4 +14,4 @@ var hinthint = require('hint-hint');
 hinthint('file/path/*.js', config)
 ```
 
-File paths support glob syntax. `config` is a JS object.
+The `hinthint` function supports splats. All strings are regarded as file paths, objects are regarded as [JSHint configurations](http://www.jshint.com/docs/config/). As well, if a `.jshintrc` file is present in the current working directory, it will extend the config from that.
