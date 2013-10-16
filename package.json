@@ -1,6 +1,6 @@
 {
   "name": "hint-hint",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "A module to produce TAP output for JSHint.",
   "main": "lib/hint-hint.js",
   "scripts": {
