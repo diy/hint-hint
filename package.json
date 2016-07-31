@@ -11,7 +11,7 @@
     "url": "git://github.com/diy/hint-hint.git"
   },
   "author": "Zach Bruggeman <zachb@diy.org>",
-  "license": "Apache 2.0",
+  "license": "Apache-2.0",
   "dependencies": {
     "async": "~0.2.9",
     "glob": "~3.2.6",
