@@ -11,16 +11,16 @@
     "url": "git://github.com/diy/hint-hint.git"
   },
   "author": "Zach Bruggeman <zachb@diy.org>",
-  "license": "Apache 2.0",
+  "license": "Apache-2.0",
   "dependencies": {
     "async": "~0.2.9",
-    "glob": "~3.2.6",
-    "jshint": "~2.1.11",
-    "lodash": "~2.2.1"
+    "glob": "^6.0.0",
+    "jshint": "^2.9.2",
+    "lodash": "^4.0.0"
   },
   "devDependencies": {
     "codebux": "~0.1.2",
-    "tap": "~0.4.4"
+    "tap": "^6.0.0"
   },
   "keywords": [
     "jshint",
